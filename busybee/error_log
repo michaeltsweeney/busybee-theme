@@ -1,0 +1,15 @@
+[04-Feb-2015 02:51:20 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home4/busybe13/public_html/wp-content/themes/busybee/404.php on line 10
+[09-Jun-2015 23:00:31 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home4/busybe13/public_html/wp-content/themes/busybee/index.php on line 10
+[09-Jun-2015 23:01:20 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home4/busybe13/public_html/wp-content/themes/busybee/index.php on line 10
+[07-Jan-2016 07:36:58 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home4/busybe13/public_html/wp-content/themes/busybee/index.php on line 10
+[10-Jan-2016 14:21:46 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home4/busybe13/public_html/wp-content/themes/busybee/index.php on line 10
+[15-Jan-2016 05:36:52 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home4/busybe13/public_html/wp-content/themes/busybee/index.php on line 10
+[22-Jan-2016 00:48:31 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home4/busybe13/public_html/wp-content/themes/busybee/404.php on line 10
+[22-May-2016 07:51:37 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home4/busybe13/public_html/wp-content/themes/busybee/404.php on line 10
+[22-May-2016 10:41:02 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home4/busybe13/public_html/wp-content/themes/busybee/404.php on line 10
+[24-Jul-2016 18:39:09 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home4/busybe13/public_html/wp-content/themes/busybee/index.php on line 10
+[06-Oct-2016 04:05:11 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home4/busybe13/public_html/wp-content/themes/busybee/index.php on line 10
+[03-Jan-2017 02:02:49 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home4/busybe13/public_html/wp-content/themes/busybee/index.php on line 10
+[18-Jan-2017 11:38:17 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home4/busybe13/public_html/wp-content/themes/busybee/index.php on line 10
+[27-Jan-2017 03:13:31 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home4/busybe13/public_html/wp-content/themes/busybee/index.php on line 10
+[07-Feb-2017 23:04:46 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home4/busybe13/public_html/wp-content/themes/busybee/index.php on line 10
